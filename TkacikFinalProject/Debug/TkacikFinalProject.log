@@ -1,0 +1,3 @@
+﻿  TkacikFinalProject.cpp
+C:\Users\louie\Documents\HOMEWORK\Data structures\TkacikFinalProject\TkacikFinalProject\TkacikFinalProject.cpp(151,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TkacikFinalProject.vcxproj -> C:\Users\louie\Documents\HOMEWORK\Data structures\TkacikFinalProject\Debug\TkacikFinalProject.exe
